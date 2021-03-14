@@ -1,0 +1,13 @@
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/service/ShopServiceImpl.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/dao/OrderRepository.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/dto/Purchase.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/dao/CustomerRepository.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/entity/Address.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/entity/OrderItem.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/dto/Message.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/ShopHoraeApplication.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/entity/Customer.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/controller/ShopController.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/dto/PurchaseResponse.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/service/ShopService.java
+/home/scorsaro/IdeaProjects/ironhack/horae/shop-horae/src/main/java/com/scorsaro/shophorae/entity/Order.java
